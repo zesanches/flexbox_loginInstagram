@@ -82,6 +82,7 @@ body {
   width: 200px;
   max-height: 200px;
 }
+
 @keyframes gradient {
   10%,
   90% {
@@ -93,6 +94,7 @@ body {
     background-position: 100% 50%;
   }
 }
+
 .instagramLogin {
   color: #ffffff;
   padding: 8px;
