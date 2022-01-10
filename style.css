@@ -147,10 +147,12 @@ body {
 
 .appDownload:nth-child(1) {
   background-image: url('./images/get_on_appstore.jpg');
+  width: 100%;
 }
 
 .appDownload:nth-child(2) {
   background-image: url('./images/pt-br_badge_web_generic.png');
+  width: 100%;
 }
 
 @media (max-width: 1024px) {
